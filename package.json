@@ -14,6 +14,6 @@
   },
   "homepage": "https://github.com/aredridel/poq#readme",
   "dependencies": {
-    "stream-equal": "^1.0.1"
+    "hcl": "^0.1.0"
   }
 }
