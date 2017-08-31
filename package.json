@@ -1,0 +1,19 @@
+{
+  "name": "poq",
+  "version": "1.0.0",
+  "description": "A little devops utility",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aredridel/poq.git"
+  },
+  "author": "Aria Stewart <aredridel@dinhe.net>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aredridel/poq/issues"
+  },
+  "homepage": "https://github.com/aredridel/poq#readme",
+  "dependencies": {
+    "stream-equal": "^1.0.1"
+  }
+}
